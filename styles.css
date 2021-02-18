@@ -1,0 +1,17 @@
+
+.circle {
+    background-color:white;
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+}
+
+/* .container {
+    display: flex;
+    justify-content: center;
+    margin-top: 17%;
+} */
+
+.newColor {
+    background-color: red;
+}
